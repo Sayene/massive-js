@@ -1,3 +1,8 @@
+# sayene fork changes:
+
+1. lib.runner - add pg types option to parse numeric as float
+
+
 <img src="http://rob.conery.io/img/2015/03/massive-logo.png" width=450 />
 
 ## Massive 2.0: A Postgres-centric Data Access Tool
